@@ -2,5 +2,9 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "Conflit Plugin",
+    "entry": "./plugins/conflit-plugin/plugin.js"
   }
 ]
